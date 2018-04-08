@@ -1,0 +1,10 @@
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\bin\Debug\ListEx2.exe.config
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\bin\Debug\ListEx2.exe
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\bin\Debug\ListEx2.pdb
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.csprojResolveAssemblyReference.cache
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.Form1.resources
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.Properties.Resources.resources
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.csproj.GenerateResource.Cache
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.csproj.CoreCompileInputs.cache
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.exe
+C:\Users\mert.yoldemir\source\repos\ListEx2\ListEx2\obj\Debug\ListEx2.pdb
